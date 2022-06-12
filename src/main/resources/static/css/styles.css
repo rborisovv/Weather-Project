@@ -357,3 +357,7 @@ body {
     height: 40px;
     background-color: #0833e3
 }
+
+.col-auto > small.invalid-feedback.bg-danger.rounded {
+    color: #fff !important;
+}
